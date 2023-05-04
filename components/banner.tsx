@@ -3,6 +3,9 @@
 import { useState } from 'react'
 
 export default function Banner() {
+  if (true){
+    return null
+  }
   const [bannerOpen, setBannerOpen] = useState<boolean>(true)
 
   return (

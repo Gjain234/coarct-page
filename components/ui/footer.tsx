@@ -2,6 +2,9 @@ import React from 'react'
 import Link from 'next/link'
 
 export default function Footer() {
+  if (true){
+    return null
+  }
   return (
     <footer>
       <div className="py-12 md:py-16">

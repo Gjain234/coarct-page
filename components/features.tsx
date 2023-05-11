@@ -7,8 +7,8 @@ export default function Features() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">
-RCTs (Randomized Controlled Trials) face challenges such as ethical concerns, high cost, and limited external validity.</h2>
-            <p className="text-xl text-gray-400">What if you could instantly run RCT's and compensate participants while not compromising any sensitive data?</p>
+Randomized Trials face challenges such as high recruiting and compliance costs.</h2>
+            <p className="text-xl text-gray-400">What if you could instantly run randomized trials and compensate participants, while not compromising any sensitive data?</p>
           </div>
 
           {/* Items */}
@@ -23,7 +23,7 @@ RCTs (Randomized Controlled Trials) face challenges such as ethical concerns, hi
                 </g>
               </svg>
               <h4 className="h4 mb-2">Instant Trial Creation</h4>
-              <p className="text-lg text-gray-400 text-center">Create compliant RCT's quickly without long review processes</p>
+              <p className="text-lg text-gray-400 text-center">Create compliant trials quickly and save on setup costs</p>
             </div>
 
             {/* 5th item */}
@@ -36,7 +36,7 @@ RCTs (Randomized Controlled Trials) face challenges such as ethical concerns, hi
                 </g>
               </svg>
               <h4 className="h4 mb-2">Powerful Targeting Tools</h4>
-              <p className="text-lg text-gray-400 text-center">Reach diverse populations easily that allow you to do better research</p>
+              <p className="text-lg text-gray-400 text-center">Reach diverse populations that improve your trial's external validity</p>
             </div>
 
             {/* 6th item */}
@@ -49,8 +49,8 @@ RCTs (Randomized Controlled Trials) face challenges such as ethical concerns, hi
                   <path className="stroke-current text-purple-100" d="M8.86 1.18C3.8 1.988 0 5.6 0 10c0 5 4.9 9 11 9a10.55 10.55 0 003.1-.4L20 21l-.6-5.2a9.125 9.125 0 001.991-2.948" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Data Visualization</h4>
-              <p className="text-lg text-gray-400 text-center">Understand research results with rich visualizations and versatile options to get your insights and reports instantly</p>
+              <h4 className="h4 mb-2">Data Analytics</h4>
+              <p className="text-lg text-gray-400 text-center">Understand research results with rich analytic tools that provide actionable insights</p>
             </div>
 
             {/* 1st item */}
@@ -61,7 +61,7 @@ RCTs (Randomized Controlled Trials) face challenges such as ethical concerns, hi
                 <path className="stroke-current text-purple-300" d="M43 42h-9M43 37h-9" strokeLinecap="square" strokeWidth="2" />
               </svg>
               <h4 className="h4 mb-2">Differential Privacy</h4>
-              <p className="text-lg text-gray-400 text-center">User data will never leave user's phones, while still providing rich insights to help make decisions.</p>
+              <p className="text-lg text-gray-400 text-center">Individual-level data never leaves users' phones</p>
             </div>
 
             
@@ -77,7 +77,7 @@ RCTs (Randomized Controlled Trials) face challenges such as ethical concerns, hi
                 </g>
               </svg>
               <h4 className="h4 mb-2">User Experience</h4>
-              <p className="text-lg text-gray-400 text-center">Extremely simple user interface that will get you started and earning money immediately</p>
+              <p className="text-lg text-gray-400 text-center">Extremely simple user interface that will get you started immediately</p>
             </div>
 
             {/* 2nd item */}
@@ -87,8 +87,8 @@ RCTs (Randomized Controlled Trials) face challenges such as ethical concerns, hi
                 <path className="stroke-current text-purple-100" strokeWidth="2" strokeLinecap="square" d="M21 23h22v18H21z" fill="none" fillRule="evenodd" />
                 <path className="stroke-current text-purple-300" d="M26 28h12M26 32h12M26 36h5" strokeWidth="2" strokeLinecap="square" />
               </svg>
-              <h4 className="h4 mb-2">Get Paid</h4>
-              <p className="text-lg text-gray-400 text-center">Get compensated for participating in user experiments.</p>
+              <h4 className="h4 mb-2">Compensation</h4>
+              <p className="text-lg text-gray-400 text-center">Users get paid for participating in trials</p>
             </div>
 
           </div>

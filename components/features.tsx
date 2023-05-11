@@ -88,7 +88,7 @@ Randomized trials face challenges like high recruiting and compliance costs.</h2
                 <path className="stroke-current text-purple-300" d="M26 28h12M26 32h12M26 36h5" strokeWidth="2" strokeLinecap="square" />
               </svg>
               <h4 className="h4 mb-2">Compensation</h4>
-              <p className="text-lg text-gray-400 text-center">Users get paid for participating in trials</p>
+              <p className="text-lg text-gray-400 text-center">Verified users get paid for signing up and participating in trials</p>
             </div>
 
           </div>

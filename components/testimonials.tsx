@@ -14,7 +14,7 @@ export default function Testimonials() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">About us</h2>
-            <p className="text-xl text-gray-400">We are a small and dynamic team with experience in statistics, economics, engineering and AI, and would love to hear from you if you are interested in trying out Coarct!</p>
+            <p className="text-xl text-gray-400">We are a dynamic team with experience in statistics, economics, engineering and AI, and would love to hear from you if you are interested in Coarct!</p>
           </div>
 
           {/* Testimonials */}

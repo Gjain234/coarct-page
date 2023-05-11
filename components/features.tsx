@@ -7,7 +7,7 @@ export default function Features() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">
-Randomized Trials face challenges such as high recruiting and compliance costs.</h2>
+Randomized trials face challenges like high recruiting and compliance costs.</h2>
             <p className="text-xl text-gray-400">What if you could instantly run randomized trials and compensate participants, while not compromising any sensitive data?</p>
           </div>
 
@@ -50,7 +50,7 @@ Randomized Trials face challenges such as high recruiting and compliance costs.<
                 </g>
               </svg>
               <h4 className="h4 mb-2">Data Analytics</h4>
-              <p className="text-lg text-gray-400 text-center">Understand research results with rich analytic tools that provide actionable insights</p>
+              <p className="text-lg text-gray-400 text-center">Understand your results with analytic tools that provide actionable insights</p>
             </div>
 
             {/* 1st item */}

@@ -17,7 +17,7 @@ export default function Zigzag() {
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <div className="inline-flex text-sm font-semibold py-1 px-3 m-2 text-green-600 bg-green-200 rounded-full mb-4">Change the world with your research</div>
             <h1 className="h2 mb-4">One product, unlimited opportunities</h1>
-            <p className="text-xl text-gray-400">An app that feels as simple as online shopping... but also propels groundbreaking research</p>
+            <p className="text-xl text-gray-400">Coarct feels as simple as online shopping... but propels groundbreaking research</p>
           </div>
 
           {/* Items */}
@@ -70,19 +70,19 @@ export default function Zigzag() {
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
                   <div className="font-architects-daughter text-xl text-purple-600 mb-2">Reach real representative populations</div>
                   <h3 className="h3 mb-3">Strong Targeting Capabilities</h3>
-                  <p className="text-xl text-gray-400 mb-4">Target diverse populations for your studies with flexible compensation options to encourage participants from around the world</p>
+                  <p className="text-xl text-gray-400 mb-4">Target diverse populations for your studies with flexible compensation options to enroll participants from around the world</p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
                       <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Many targeting options</span>
+                      <span>Multiple targeting options</span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Flexible compensation for underrepresented participants</span>
+                      <span>Flexible compensation schemes for participants</span>
                     </li>
                     <li className="flex items-center">
                       <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
@@ -124,7 +124,7 @@ export default function Zigzag() {
                       <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Recommendations for your trials</span>
+                      <span>Insights from your trials</span>
                     </li>
                   </ul>
                 </div>

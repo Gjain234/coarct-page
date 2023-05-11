@@ -14,7 +14,7 @@ export default function Testimonials() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">About us</h2>
-            <p className="text-xl text-gray-400">We are a small and dynamic team with experience in statistics, economics, engineering, and AI and would love to hear from you if you are interested in trying out Coarct!</p>
+            <p className="text-xl text-gray-400">We are a small and dynamic team with experience in statistics, economics, engineering and AI, and would love to hear from you if you are interested in trying out Coarct!</p>
           </div>
 
           {/* Testimonials */}
@@ -27,7 +27,7 @@ export default function Testimonials() {
                   <Image className="rounded-full" src={mohit} width={500}  alt="Testimonial 01" />
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">Economics and Statists PhD Student at MIT.</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">Economics and Statistics PhD Student at MIT.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
                 <cite className="text-gray-200 not-italic">Mohit Karnani</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="https://www.linkedin.com/in/mohitkarnani">LinkedIn</a>
               </div>
